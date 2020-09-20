@@ -1,4 +1,5 @@
-### Hi there 👋
+[![jfkz's github stats](https://github-readme-stats.vercel.app/api?username=jfkz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **jfkz/jfkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
